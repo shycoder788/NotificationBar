@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationBar</string>
+    <string name="show_notification">Show notification!</string>
+    <string name="from_notification">from notification</string>
+</resources>
